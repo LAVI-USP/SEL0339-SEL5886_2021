@@ -39,6 +39,7 @@
 
  - [Lista de Exercício 1](https://github.com/LAVI-USP/SEL0339-SEL5886_2021/blob/main/praticas/Lista_de_Exercicio_1.ipynb)
  - [Lista de Exercício 2](https://github.com/LAVI-USP/SEL0339-SEL5886_2021/blob/main/praticas/Lista_de_Exercicio_2.ipynb)
+ - [Lista de Exercício 3](https://github.com/LAVI-USP/SEL0339-SEL5886_2021/blob/main/praticas/Lista_de_Exercicio_3.ipynb)
 
 ---
 
