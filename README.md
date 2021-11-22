@@ -43,6 +43,7 @@
  - [Lista de Exercício 4](https://github.com/LAVI-USP/SEL0339-SEL5886_2021/blob/main/praticas/Lista_de_Exercicio_4.ipynb)
  - [Lista de Exercício 5](https://github.com/LAVI-USP/SEL0339-SEL5886_2021/blob/main/praticas/Lista_de_Exercicio_5.ipynb)
  - [Lista de Exercício 6](https://github.com/LAVI-USP/SEL0339-SEL5886_2021/blob/main/praticas/Lista_de_Exercicio_6.ipynb)
+ - [Lista de Exercício 7](https://github.com/LAVI-USP/SEL0339-SEL5886_2021/blob/main/praticas/Lista_de_Exercicio_7.ipynb)
 ---
 
 Laboratory of Computer Vision ([Lavi](http://iris.sel.eesc.usp.br/lavi/))  
